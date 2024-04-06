@@ -1,6 +1,6 @@
 <template>
-  <div class="flex items-center justify-center h-screen bg-slate-500"> <!-- put something cool here? -->
-    <h1 class="text-7xl ">Hack Club @ CGHS</h1>
+  <div class="flex items-center justify-center h-screen bg-gray-900"> <!-- put something cool here? -->
+    <img src="~/public/assets/hack-cghs-logo-dark.svg" alt="Hack Club Logo">
   </div>
   <div>
     <p>more content about hack club before the footer.</p>
@@ -9,9 +9,8 @@
 </template>
 
 <script lang="ts" setup>
-
+import logo from '~/public/assets/hack-cghs-logo.svg'
 </script>
 
 <style>
-
 </style>
