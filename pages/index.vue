@@ -19,7 +19,7 @@
       <div>
         <p class=" text-3xl">
           Hack Club is a space for people who like to make and understand how
-          things work. we do [workshops and jams](), where we make our own
+          things work. we do <a class="underline text-blue-500" href="https://jams.hackclub.com">workshops and jams</a>, where we make our own
           software and hardware.
         </p>
 
@@ -27,13 +27,6 @@
           check out the <a class="underline text-blue-500" href="https://hackclub.com/philosophy/">Hacker Ethic</a> for more.
         </p>
       </div>
-    </div>
-    <div class="flex flex-col h-96 space-y-8 items-center justify-center">
-      <h1 class="ml-8 text-7xl w-[40rem]">Things Our Hackers Have Made!</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa perspiciatis eveniet, dolorem eos impedit quos repudiandae asperiores officia soluta eaque aspernatur voluptate iure fugit consequatur facere, nostrum consequuntur, reiciendis odio.</p>
-    </div>
-    <div class="h-96 ">
-      <p class="">Join Us</p>
     </div>
   </div>
 </template>
