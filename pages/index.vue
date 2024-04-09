@@ -7,8 +7,6 @@
       
       -->
       <img src="~/public/assets/hack-cghs-logo-dark.svg" alt="Hack Club Logo" />
-      <br />
-      <h1 class="text-white">scroll down mark</h1>
     </div>
     <div
       class="flex flex-row h-[40rem] items-center justify-center"
