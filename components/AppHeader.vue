@@ -5,6 +5,7 @@
         <img class="h-20 hover:animate-wiggle hover:animate-infinite" src="~/public/assets/flag-orpheus-top.svg">
       </nuxt-link>
       <nuxt-link to="/">Home</nuxt-link>
+      <nuxt-link to="/workshops">Workshops</nuxt-link>
       <nuxt-link to="/about">About</nuxt-link>
       <nuxt-link to="/join">Join</nuxt-link>
     </div>
