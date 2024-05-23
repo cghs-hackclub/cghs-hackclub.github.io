@@ -1,9 +1,8 @@
 ---
 title: 'Build A Website Basics'
 description: 'meta description of the page'
+author: 'Dakota Roth'
 ---
-
-# Build A Website Basics ( with github codespaces! )
 
 by the end of  this tutorial you will be able to -
 
@@ -201,8 +200,6 @@ Images are done in a tag called &lt;img/>, and also have a property called src. 
 The *attribute* for image location is called `src`, and is used to specify a URL that directs to a image.
 
 There are a few other ones that REQUIRE attributes to work, such as 
-
-::code-group
 
 ```html
 <a href="www.example.com">click me!</a>
