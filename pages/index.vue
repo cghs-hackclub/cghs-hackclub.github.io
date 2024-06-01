@@ -6,7 +6,7 @@
       from shadertoy.com
       
       -->
-      <img src="~/public/assets/hack-cghs-logo-dark.svg" alt="Hack Club Logo" />
+      <img class="pointer-events-none" src="~/public/assets/hack-cghs-logo-dark.svg" alt="Hack Club Logo" />
     </div>
     <div
       class="flex flex-row h-[40rem] items-center justify-center"
