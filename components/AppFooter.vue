@@ -7,9 +7,6 @@
           <NuxtLink to="https://hackclub.com">Main Hackclub Site</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/projects">Projects</NuxtLink>
-        </li>
-        <li>
           <NuxtLink to="/workshops">Workshops</NuxtLink>
         </li>
         <li>
