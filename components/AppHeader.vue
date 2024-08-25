@@ -4,19 +4,10 @@
       <nuxt-link to="https://hackclub.com" >
         <img class="h-20 hover:animate-wiggle hover:animate-infinite" src="~/public/assets/flag-orpheus-top.svg">
       </nuxt-link>
-      <nuxt-link to="/">Home</nuxt-link>
-      <nuxt-link to="/workshops">Workshops</nuxt-link>
-      <nuxt-link to="/guides">Guides</nuxt-link>
-      <nuxt-link to="/about">About</nuxt-link>
-      <nuxt-link to="/join">Join</nuxt-link>
+      <NuxtLink to="/">Home</NuxtLink>
+      <NuxtLink to="/workshops">Workshops</NuxtLink>
+      <NuxtLink to="/guides">Guides</NuxtLink>
+      <NuxtLink to="/about">About</NuxtLink>
     </div>
   </div>
 </template>
-
-<script lang="ts" setup>
-
-</script>
-
-<style>
-  
-</style>
