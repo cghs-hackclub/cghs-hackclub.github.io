@@ -15,5 +15,14 @@
                 </div>
             </div>
         </a>
+        <a href="/workshops/ai-comicbook">
+            <div class="bg-gray-800 m-6 w-96 h-[18rem] rounded-2xl border-8 border-gray-800 shadow-2xl cursor-pointer 
+            transition ease-in-out delay-30 hover:-translate-y-2 hover:translate-x-2 ">
+                <img class="rounded-2xl" src="~/public/assets/workshops/cover/ai-comicbook.png">
+                <div class="flex items-center justify-center">
+                    <p class="mt-4 text-white text-lg">AI Comic Book</p>
+                </div>
+            </div>
+        </a>
     </div>
 </template>
